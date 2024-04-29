@@ -5,4 +5,4 @@ In terms of policy evaluation, we are looking into two main strategies: Conditio
 
 Through this project, we will quantify the shifts in food expenditures and assess their impact on nutritional adequacy, with a particular focus on essential nutrients like Vitamin C. By comparing the nutritional outcomes of these policy interventions with a control scenario, we aim to provide actionable insights into which measures are most effective at improving child nutrition in Uganda
 
-## Our datahub link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcefayefang%2FRachel-Griffith&urlpath=tree%2FRachel-Griffith%2F
+#### Our datahub link: https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcefayefang%2FRachel-Griffith&urlpath=tree%2FRachel-Griffith%2F
